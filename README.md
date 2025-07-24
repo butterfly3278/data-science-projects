@@ -1,6 +1,6 @@
 # 📊 Data Science Portfolio
 
-Welcome to my Data Science Portfolio – a collection of three end-to-end projects built for fictional companies in different industries. Each project demonstrates practical applications of data science, including data cleaning, exploratory analysis, machine learning, clustering, and recommendation systems.
+Welcome to my Data Science Portfolio – a collection of five end-to-end projects built for fictional companies in different industries. Each project demonstrates practical applications of data science, including data cleaning, exploratory analysis, machine learning, clustering, SQL analytics, and Tableau dashboarding.
 
 ---
 
@@ -61,10 +61,48 @@ I applied Market Basket Analysis using the Apriori algorithm:
 
 ---
 
+### 4. 🗃️ SQL Sales Analysis – RetailViz
+
+**Industry:** Retail / Sales  
+**Business Problem:**  
+RetailViz wanted to analyze historical sales data to understand revenue trends, customer behavior, and top-selling products.
+
+**Solution:**  
+I used MySQL to write advanced analytical queries for:
+
+- Revenue analysis by month and country
+- Best-selling products by quantity
+- Repeat customer detection
+- Total revenue and product-level metrics
+
+📁 [View Project Folder](./sales-data-sql-queries)
+
+---
+
+### 5. 📈 Tableau Dashboard – Sales Insights
+
+**Industry:** Business Intelligence  
+**Business Problem:**  
+A regional retail company needed a dashboard to monitor overall performance and uncover sales patterns across time and geography.
+
+**Solution:**  
+I built an interactive Tableau dashboard using visual storytelling techniques:
+
+- Monthly revenue trends
+- Country-level sales distribution
+- Top products chart
+- Repeat customer analysis
+
+📁 [View Project Folder](./sales-dashboard-tableau)
+
+---
+
 ## 📌 Tools & Libraries Used
 
 - Python, Pandas, NumPy
 - Scikit-learn, MLxtend
+- MySQL Workbench
+- Tableau Public
 - Matplotlib, Seaborn
 - Jupyter / Google Colab
 
@@ -73,7 +111,7 @@ I applied Market Basket Analysis using the Apriori algorithm:
 ## 👋 About Me
 
 I'm a data science enthusiast passionate about solving business problems with data.  
-This portfolio showcases my ability to work across domains and apply machine learning to real-world datasets.
+This portfolio showcases my ability to work across domains and apply data science and BI tools to real-world datasets.
 
 ---
 
